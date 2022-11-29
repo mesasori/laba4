@@ -1,0 +1,3 @@
+/home/mesasori/CLionProjects/laba3/cmake-build-debug/CMakeFiles/laba3.dir
+/home/mesasori/CLionProjects/laba3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mesasori/CLionProjects/laba3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
